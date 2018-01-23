@@ -1,0 +1,9 @@
+External Jar(s) used:
+  org.apache.commons.io.jar
+  org.json.jar
+
+Create JAR - Mavin- IntelliJ- Credits:StackOverflow
+  https://stackoverflow.com/questions/1082580/how-to-build-jars-from-intellij-properly
+  
+Create Exe File - Credits:StackOverflow
+  https://stackoverflow.com/questions/19037339/run-java-file-as-administrator-with-full-privileges
